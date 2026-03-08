@@ -55,6 +55,7 @@ How Crypto Actually Works: The Missing Manual中文版
 
 #	Chapter
 -	Preface: Why This Matters
+  前言：为什么这很重要 https://github.com/elvishinechou/howcryptoworksbook_CN/blob/main/Chapters/_preface.md
 1	A Comprehensive Introduction to Bitcoin
 2	The Ethereum Ecosystem
 3	The Solana Ecosystem
